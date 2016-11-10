@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_efc2079eeec3572c1863a2fd107320dcb50ebf45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0a7a75e6c2bb11c62df9ae68851bceb2c9cb6e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0c5d68d9689c82f153359a960dc3635bc2d6d2e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_4af2b6580a87eeeb9dcfce51a5cec3ad431e0108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_b7cdcc8f88024f19c15c32df7a8c562821762cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_72725ba1e5448dbfcc6db57873970b4f96be2f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_fd483e97a7fb7782c1659617ee9bb0e552da30d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_0447e54d1270febcb1ef007c093302ab349c7497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_28b0ec2e18b1563b2359eed87229c2e0a84a5dda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_de0f3539ff77d497950892794734a85a7adfa6a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ba2d58eac727404025518fa06507ef052b104d42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a17b3039fd5e1d27bbdaf6e7696147fd8d267601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_5780c637879c1b622bee398ec0edfeedee92ba36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\android_sdk_2.0\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c4d271ad2ea99e13b03ee6e866e8b67552fac919\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f9525c2e0d10bfb03156b8e13e54ce3ed9532d73">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6fa80c5eafb1ddcf7ef640bba89b4d9193aa4cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_10805229ffa95e0091cc47ac27b157b45b789d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zhenya\.gradle\caches\modules-2\files-2.1\org.scribe\scribe\1.3.5\a3b3deded9d241d9f2c8aa9c9bcd90ad29e2581e\scribe-1.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3b3deded9d241d9f2c8aa9c9bcd90ad29e2581e">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\scribe-1.3.5_ae5cdcfcc1cb7bc4b26f79571b25a5c29df8409a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_54d307858b5aa41720ac575382b4ddce27d17d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_5f7875421fb17da70509157d974918559afb506b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_6fa24925157c062ee87218187b00f5093ccc275f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_be4e862a275874dadace946a2db0a5cc1448ca37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be887a85a93974575eef256bef3482465dff761b">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d3241aa56f84986174fc69135cb004a218699f0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0ceb270a9111dea7fee745f5b2c1f3ef304c08f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d37fcc5a7cf1aeb7f37df9fce68c9787842fd375\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="H:\courses\LAIOFFER\Android_project\LaiOfferProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_208b9491883b9f30d76070aa5f0a2f204deee6f2\classes.dex" />
+    </item>
+
+</items>

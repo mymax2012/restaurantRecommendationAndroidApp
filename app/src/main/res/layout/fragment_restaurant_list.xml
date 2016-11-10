@@ -1,0 +1,32 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipe_refresh_layout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zhenya.laiofferproject.RestaurantListActivity">
+
+    <TextView
+        android:text="Restaurant"
+        android:textColor="#F3BB43"
+        android:background="#434343"
+        android:textSize="24sp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"/>
+    <TextView
+        android:text="Recommendation"
+        android:background="#434343"
+        android:layout_width="match_parent"
+        android:textSize="24sp"
+        android:layout_height="40dp"/>
+
+
+
+    <ListView android:id="@+id/restaurant_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+</LinearLayout>
